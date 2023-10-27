@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+// eslint-disable-next-line
+import React from "react";
+import CardDisplay from "./components/Card";
+import ShowBio from "./components/Home";
+import ContactInfo from "./components/Contact";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import NavElement from "./components/NavBar";
+import "./App.css";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router basename={`${process.env.PUBLIC_URL}/`}>
+      <div>
+        <NavElement />
+        <Routes>
+          <Route exact path="/" element={<ShowBio />} />
+          <Route exact path="/home" element={<ShowBio />} />
+          <Route exact path="/portfolio" element={<CardDisplay />} />
+          <Route exact path="/contact" element={<ContactInfo />} />
+        </Routes>
+      </div>
+    </Router>
   );
-}
+};
 
 export default App;
