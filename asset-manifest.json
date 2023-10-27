@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/joel-portfolio2/static/css/main.1b80879c.css",
+    "main.js": "/joel-portfolio2/static/js/main.f8cf0ac8.js",
+    "static/js/787.5161d9da.chunk.js": "/joel-portfolio2/static/js/787.5161d9da.chunk.js",
+    "static/media/storefrontsColorizedTextureBlueNeon.jpg": "/joel-portfolio2/static/media/storefrontsColorizedTextureBlueNeon.41b76d97f067b5d561a4.jpg",
+    "static/media/Burger-Logger.jpg": "/joel-portfolio2/static/media/Burger-Logger.72020fd1638335b449c0.jpg",
+    "static/media/Morning Vista 2014smll.jpg": "/joel-portfolio2/static/media/Morning Vista 2014smll.80cd09f5c636c1dbac7f.jpg",
+    "static/media/LisabflamencoScreenshot.jpg": "/joel-portfolio2/static/media/LisabflamencoScreenshot.c385428f7228934d4a76.jpg",
+    "static/media/violin_classics_scrnshot2.jpg": "/joel-portfolio2/static/media/violin_classics_scrnshot2.dd9da5aa997c7acefc7a.jpg",
+    "static/media/Code_QuizImage.jpg": "/joel-portfolio2/static/media/Code_QuizImage.a5f9188e3a312c699fec.jpg",
+    "static/media/JoelatBarron_2016cropped.jpg": "/joel-portfolio2/static/media/JoelatBarron_2016cropped.dc364f665b8bebb2d3d7.jpg",
+    "static/media/WorkdayScheduler.jpg": "/joel-portfolio2/static/media/WorkdayScheduler.f7ddf0f55d711638491d.jpg",
+    "static/media/WeatherAppImage.jpg": "/joel-portfolio2/static/media/WeatherAppImage.ecf1812c06a0ae3c700e.jpg",
+    "index.html": "/joel-portfolio2/index.html",
+    "main.1b80879c.css.map": "/joel-portfolio2/static/css/main.1b80879c.css.map",
+    "main.f8cf0ac8.js.map": "/joel-portfolio2/static/js/main.f8cf0ac8.js.map",
+    "787.5161d9da.chunk.js.map": "/joel-portfolio2/static/js/787.5161d9da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b80879c.css",
+    "static/js/main.f8cf0ac8.js"
+  ]
+}
