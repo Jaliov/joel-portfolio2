@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/joel-portfolio2/static/css/main.1b80879c.css",
-    "main.js": "/joel-portfolio2/static/js/main.f8cf0ac8.js",
+    "main.css": "/joel-portfolio2/static/css/main.2d369719.css",
+    "main.js": "/joel-portfolio2/static/js/main.93546edd.js",
     "static/js/787.5161d9da.chunk.js": "/joel-portfolio2/static/js/787.5161d9da.chunk.js",
     "static/media/storefrontsColorizedTextureBlueNeon.jpg": "/joel-portfolio2/static/media/storefrontsColorizedTextureBlueNeon.41b76d97f067b5d561a4.jpg",
     "static/media/Burger-Logger.jpg": "/joel-portfolio2/static/media/Burger-Logger.72020fd1638335b449c0.jpg",
@@ -13,12 +13,12 @@
     "static/media/WorkdayScheduler.jpg": "/joel-portfolio2/static/media/WorkdayScheduler.f7ddf0f55d711638491d.jpg",
     "static/media/WeatherAppImage.jpg": "/joel-portfolio2/static/media/WeatherAppImage.ecf1812c06a0ae3c700e.jpg",
     "index.html": "/joel-portfolio2/index.html",
-    "main.1b80879c.css.map": "/joel-portfolio2/static/css/main.1b80879c.css.map",
-    "main.f8cf0ac8.js.map": "/joel-portfolio2/static/js/main.f8cf0ac8.js.map",
+    "main.2d369719.css.map": "/joel-portfolio2/static/css/main.2d369719.css.map",
+    "main.93546edd.js.map": "/joel-portfolio2/static/js/main.93546edd.js.map",
     "787.5161d9da.chunk.js.map": "/joel-portfolio2/static/js/787.5161d9da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b80879c.css",
-    "static/js/main.f8cf0ac8.js"
+    "static/css/main.2d369719.css",
+    "static/js/main.93546edd.js"
   ]
 }
