@@ -10,7 +10,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <Router basename={`${process.env.PUBLIC_URL}/`}>
+    <Router basename="/joel-portfolio2">
       <div>
         <NavElement />
         <Routes>
