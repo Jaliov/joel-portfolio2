@@ -201,25 +201,6 @@ const CardDisplay = () => {
                   {/* <ListGroupItem>Links:</ListGroupItem> */}
                 </ListGroup>
               </Card.Body>
-              <Card.Body>
-                <Button
-                  variant="danger"
-                  href="https://violin-classics-mvc.herokuapp.com/index.php"
-                  target="blank"
-                  text="light"
-                >
-                  Violin Classics
-                </Button>
-                <Button
-                  variant="info"
-                  href="https://github.com/Jaliov/Violin_Classics_mvc"
-                >
-                  GitHub
-                </Button>
-              </Card.Body>
-              <Card.Footer>
-                <small className="text-muted"></small>
-              </Card.Footer>
             </Card>
           </Col>
           <Col md={1} />
