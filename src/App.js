@@ -10,14 +10,14 @@ import "./App.css";
 
 const App = () => {
   return (
-    <Router basename="/joel-portfolio2">
+    <Router basename="/">
       <div>
         <NavElement />
         <Routes>
           <Route exact path="/" element={<ShowBio />} />
-          <Route exact path="/home" element={<ShowBio />} />
-          <Route exact path="/portfolio" element={<CardDisplay />} />
-          <Route exact path="/contact" element={<ContactInfo />} />
+          <Route path="/home" element={<ShowBio />} />
+          <Route path="/portfolio" element={<CardDisplay />} />
+          <Route path="/contact" element={<ContactInfo />} />
         </Routes>
       </div>
     </Router>
