@@ -1,7 +1,7 @@
 {
   "name": "joel-portfolio2",
   "version": "0.1.0",
-  "homepage": " https://git.heroku.com/glacial-tor-95615.git",
+  "homepage": "https://glacial-tor-95615-8b84248e2927.herokuapp.com/",
   "engines": {
     "node": "18.x",
     "npm": "10.7.0"
