@@ -2,7 +2,11 @@
   "name": "joel-portfolio2",
   "version": "0.1.0",
   "homepage": "https://Jaliov.github.io/joel-portfolio2",
-  "private": true,
+  "engines": {
+    "node": "18.x",
+    "npm": "10.7.0"
+  },
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -21,7 +25,6 @@
     "dev": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
@@ -44,12 +47,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0",
     "react-scripts": "^5.0.1"
-  },
-  "engines": {
-    "npm": "10.7.0",
-    "node": "18.17.1"
   }
 }
